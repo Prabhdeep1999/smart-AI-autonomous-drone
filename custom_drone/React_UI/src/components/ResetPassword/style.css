@@ -1,0 +1,168 @@
+.login-page {
+    margin-top: 50px;
+    /* padding-bottom: 40px; */
+}
+
+.login-page .form-layout .card {
+    border-radius: 0;
+    box-shadow: none;
+    border: none;
+}
+
+.login-page .form-layout .card .card-header {
+    display: flex;
+    background: #fff;
+}
+
+.login-page .form-layout .card .card-header img {
+    width: 250px;
+}
+
+.login-page .form-layout .card .card-header span {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    padding: 10px;
+    margin-top: 30px;
+    white-space: break-spaces;
+}
+
+.login-page .form-layout .card .card-body {
+    padding-top: 10px;
+}
+
+.login-page .form-layout .card .card-body h5.card-title {
+    color: #22566b;
+}
+
+.login-page .form-layout .card .card-body p.card-text {
+    color: #b3b3b3;
+    margin-bottom: 0px;
+}
+
+/* .login-page .form-layout .card .card-body .field ngx-recaptcha2 {
+    margin: 0 auto;
+    display: table;
+    margin-bottom: 15px;
+} */
+
+.login-page .form-layout .card .card-body .field .credit {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: #a31b18;
+    margin: 20px auto;
+}
+
+.login-page .form-layout .card .card-body .field .link {
+    margin: 15px;
+    display: block;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.login-page .form-layout .card .card-body .field button.btn-submit {
+    background: #454444;
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 10px;
+    margin-top: 15px;
+    box-shadow: 0 0 0 0.2rem rgba(69, 68, 68, 0.25);
+}
+
+/* .login-page .form-layout .card .card-body .field label {
+    color: #b3b3b3;
+    text-transform: uppercase;
+} */
+
+.login-page .form-layout .card .card-body .field .error-log {
+    min-height: 24px;
+}
+
+.login-page .form-layout .card .card-body .field .error-log .error-message {
+    font-size: 14px;
+    color: #a31b18;
+    display: block;
+    /* padding: 5px 40px; */
+    text-transform: capitalize;
+}
+
+/* .login-page .form-layout .card .card-body .field .error-log .error-message.odd {
+    padding: 0px 12px;
+} */
+
+/* .login-page .form-layout .card .card-body .field .form-group {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    margin: 0;
+} */
+
+/* .login-page .form-layout .card .card-body .field .form-group select.form-control {
+    box-shadow: none;
+    border: none;
+    border-radius: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    font-size: 16px;
+    background-size: 14px;
+} */
+
+/* .login-page .form-layout .card .card-body .field .form-group select.form-control option {
+    font-size: 16px;
+} */
+
+/* .login-page .form-layout .card .card-body .field .form-group select.form-control::-ms-expand {
+    display: none;
+} */
+
+/* .login-page .form-layout .card .card-body .field .form-group select.form-control.ng-valid.ng-touched {
+    border-bottom: 2px solid #28a745;
+}
+
+.login-page .form-layout .card .card-body .field .form-group select.form-control.ng-invalid.ng-touched {
+    border-bottom: 2px solid #a31b18;
+} */
+
+/* .login-page .form-layout .card .card-body .field .form-group select.form-control:focus + .input-group-prepend span.input-group-text {
+    color: #a31b18;
+} */
+
+/* .login-page .form-layout .card .card-body .field .form-group input.form-control {
+    outline: none;
+    border-radius: 0;
+    border: none;
+    box-shadow: none;
+    font-size: 16px;
+    background-size: 14px;
+} */
+
+/* .login-page .form-layout .card .card-body .field .form-group input.form-control:-webkit-input-placeholder, .login-page .form-layout .card .card-body .field .form-group input.form-control:-ms-input-placeholder, .login-page .form-layout .card .card-body .field .form-group input.form-control:placeholder {
+    color: red;
+} */
+/* 
+.login-page .form-layout .card .card-body .field .form-group input.form-control.ng-valid.ng-touched {
+    border-bottom: 2px solid #28a745;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath fill='%2328a745' d='M2.3 6.73L.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right calc(.375em + .1875rem) center;
+} */
+
+/* .login-page .form-layout .card .card-body .field .form-group input.form-control.ng-invalid.ng-touched {
+    border-bottom: 2px solid #a31b18;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='none' stroke='%23dc3545' viewBox='0 0 12 12'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23dc3545' stroke='none'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right calc(.375em + .1875rem) center;
+} */
+
+/* .login-page .form-layout .card .card-body .field .form-group input.form-control:focus + .input-group-prepend span.input-group-text {
+    color: #a31b18;
+} */
+
+/* .login-page .form-layout .card .card-body .field .form-group .input-group-prepend span.input-group-text {
+    background: transparent;
+    border: none;
+    font-size: 20px;
+    color: #22566b;
+} */

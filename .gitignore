@@ -130,6 +130,8 @@ dmypy.json
 
 # ignore weights file
 *.weights
+*.trt
 
 # ignore node modules
 tello/Tello_API/node_modules/*
+custom_drone/React_UI/node_modules/*
