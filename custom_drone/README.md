@@ -15,21 +15,21 @@ This also has a React website to show real-time alerts and a Flutter App for ini
 **Demo of The Website:**
 
 
-<p align="center"><img src="images/Readme/react_website_demo.png" alt="react_website_demo"/></p>
+<p align="center"><img src="images/README/react_website_demo.png" alt="react_website_demo"/></p>
 
 
 **Demo of The App:**
 
 
 
-<p align="center"><img src="images/Readme/flutter_app_demo.png" alt="flutter_app_demo"/></p>
+<p align="center"><img src="images/README/flutter_app_demo.png" alt="flutter_app_demo"/></p>
 
 
 **Detailed Tech stack:**
 
 
 
-<p align="center"><img src="images/Readme/tech_stach_actual.jpg" alt="tech_stach_actual"/></p>
+<p align="center"><img src="images/README/tech_stach_actual.jpg" alt="tech_stach_actual"/></p>
 
 
 **For getting started with firebase:** https://yanwei-liu.medium.com/learning-firebase-1-create-your-first-project-b5b5e352198c
