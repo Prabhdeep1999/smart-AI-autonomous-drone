@@ -29,7 +29,7 @@ This also has a React website to show real-time alerts and a Flutter App for ini
 
 
 
-<p align="center"><img src="images/README/tech_stach_actual.jpg" alt="tech_stach_actual"/></p>
+<p align="center"><img src="images/README/tech_stack_actual.jpg" alt="tech_stack_actual"/></p>
 
 
 **For getting started with firebase:** https://yanwei-liu.medium.com/learning-firebase-1-create-your-first-project-b5b5e352198c
