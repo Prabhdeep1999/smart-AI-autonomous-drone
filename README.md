@@ -13,4 +13,4 @@ A smart autonomous drone with Object Tracking and Object Detection capabilities
 ### This project was done in 2 phases:
 
 1. Person Tracking algorithm with Tello Drone. Find related files [here](https://github.com/Prabhdeep1999/smart-AI-autonomous-drone/tree/main/tello)
-2. Making a Custom Autonomous Drone with real-time intruder detection alerts. Find related files [here](https://github.com/Prabhdeep1999/smart-AI-autonomous-drone/tree/main/custom_drone/)
+2. Making a Custom Autonomous Drone with real-time intruder detection alerts. Find related files [her](https://github.com/Prabhdeep1999/smart-AI-autonomous-drone/tree/main/custom_drone/)
